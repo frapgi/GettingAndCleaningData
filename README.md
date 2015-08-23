@@ -1,5 +1,5 @@
 # GettingAndCleaningData
-Coursera cours - Getting and Cleaning Data
+Coursera course - Getting and Cleaning Data
 This repository contains the R code and documentation files for the "Getting and Cleaning data" prject of week 3 of coursera.
 
 
